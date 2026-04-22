@@ -5,6 +5,7 @@
 <br>
 Es el conjunto de fuentes de donde el sistema extrae la información fundamental para su funcionamiento. Incluye a los especialistas humanos (Expertos), los ingenieros de conocimiento (Cognimáticos), e incluso entradas físicas directas (Sensores y Bases de Datos externas).
 <br>
+<br>
 
 ¿Para qué sirve?
 <br>
